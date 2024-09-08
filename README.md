@@ -18,15 +18,7 @@ To clone this application enter the following command:
 ```
 git clone https://github.com/JORUNOJOSTAR/GitHub-User-Activity.git
 ```
-
-
-## After cloning
-
-Enter the following command in repository to setting up the app.
-```
-npm i
-```
-You can find activity by following command
+After cloning ,you can run the following command to find actvities of github user.
 ```
 node index.js [GitHub Username]
 ```
